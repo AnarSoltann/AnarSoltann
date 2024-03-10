@@ -5,7 +5,7 @@
 
 📝 My Portfolio ....
 
-💬 Ask me about Java,HTML ,CSS.
+💬 Ask me about Java, HTML & CSS.
 
 📫 How to reach me anar.soltann@gmail.com
 
