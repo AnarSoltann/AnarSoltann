@@ -1,15 +1,13 @@
                                                                      Hi  👋, I’m Anar Soltan
-🌱 I’m currently learning JavaScript & Python.
+🌱 I am Software Developer | Skilled in Frontend & Backend Development
 
-👨‍💻 All of my projects are available at ...
+👨‍💻 All of my projects are available at https://anarsoltann.github.io/Portfolio/
 
 📝 My Portfolio ....
 
-💬 Ask me about Java, HTML & CSS.
+💬 Ask me about Java, Angular
 
 📫 How to reach me anar.soltann@gmail.com
-
-📄 Know about my experiences ....
 
 ⚡ Fun fact I love capturing memories 📷.
 
