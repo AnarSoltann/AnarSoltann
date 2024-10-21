@@ -1,4 +1,4 @@
-                                                                     Hi  👋, I’m Anar Soltan
+                                                                     Hi  👋, I’m Anar Soltanzada
 🌱 I am Software Developer | Skilled in Frontend & Backend Development
 
 👨‍💻 All of my projects are available at https://anarsoltann.github.io/Portfolio/
